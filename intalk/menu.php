@@ -1,0 +1,1 @@
+<a href="/intalk/index.php">Tûzfalak</a>            <a href="/intalk/types.php">Típusok</a>        <a href="/intalk/networks.php">Hálózatok</a><br><br>
